@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Rowdies' cursive;
+}
+.heading{
+    margin: 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+}
+.navi{
+    float: right;
+}
+#text{
+    color:black;
+    background-color: white;
+    box-shadow: 5px 5px 5px grey;
+    width: 60%;
+    height: 20px;
+    border-radius: 20px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
